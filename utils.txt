@@ -1,1 +1,2 @@
-this is utils function of version 1
+this is utils function of version 2
+
